@@ -1,7 +1,7 @@
 # Lesson 1B
 ## Risk Life Cycle
 
-### 1. This phase of the risk management life cycle idenitifies effective means by which identified risks can be reduced.
+### 1. This phase of the risk management life cycle identifies effective means by which identified risks can be reduced.
 Control
 
 ### 2. A ________ should include detailed descriptions of the necessary steps required to successfully complete a task.

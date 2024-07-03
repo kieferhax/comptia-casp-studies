@@ -11,7 +11,7 @@ On course completion, you will be able to achieve the following:
 - Identify infrastructure services
 - Perform software integration
 - Explain virtualization, cloud, and emerging technologies
-- Explore secure configutations and system hardening
+- Explore secure configurations and system hardening
 - Understand security considerations of cloud and specialized platforms
 - Implement cryptography and public key infrastructure
 - Understand threat and vulnerability management activities
