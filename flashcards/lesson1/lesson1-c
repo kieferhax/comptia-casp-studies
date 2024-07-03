@@ -1,17 +1,17 @@
 # Lesson 1C
 ## Vendor Risk
 
-### Which cloud service type represents the lowest amount of responsibility for the customer?
+### 1. Which cloud service type represents the lowest amount of responsibility for the customer?
 Software as a Service (SaaS)
 
-### This describes when a customer is completely dependent on a vendor for products or services.
+### 2. This describes when a customer is completely dependent on a vendor for products or services.
 Vendor Lock-In
 
-### This describes when a copy of vendor-developed source code is provided to a trusted third party, in case of diaster.
+### 3. This describes when a copy of vendor-developed source code is provided to a trusted third party, in case of diaster.
 Source code escrow
 
-### This describes all of the suppliers, vendors, and partners needed to deliver a final product.
+### 4. This describes all of the suppliers, vendors, and partners needed to deliver a final product.
 The Supply Chain
 
-### A set of cybersecurity standards developed by the United States Department of Defense (DoD) and designed to help fortify the DoD supply chain
+### 5. A set of cybersecurity standards developed by the United States Department of Defense (DoD) and designed to help fortify the DoD supply chain
 Cybersecurity Maturity Model Certification (CMMC)
