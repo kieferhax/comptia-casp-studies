@@ -17,4 +17,4 @@ On course completion, you will be able to achieve the following:
 - Understand threat and vulnerability management activities
 - Develop incident response capabilities.
 
-[![Watch the video](https://images.credly.com/size/340x340/images/7b0fab0d-c9d5-409d-bdc0-1772143cdab1/CompTIA_CASP_2Bce.png)](https://github.com/kieferhax/comptia-casp-studies.git)
+[![Watch the video](https://github.com/kieferhax/comptia-casp-studies.git)](https://github.com/kieferhax/comptia-casp-studies.git)
