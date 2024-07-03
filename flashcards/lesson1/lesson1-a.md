@@ -2,8 +2,7 @@
 ## Risk Management
 
 ### 1. What are two ways to measure risk?
-Qualitative
-Quantitative
+Qualitative Risk & Quantitative Risk
 
 ### 2. Which risk response is also included when risk mitigation is performed?
 Acceptance
