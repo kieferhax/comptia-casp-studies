@@ -111,3 +111,14 @@ Handing over much of the control of these items presents many tactical risks, bu
 Determining which laws are applicable in various scenarios, defining boundaries around how and where cloud services can be provisioned, and training staff on these requirements becomes much more critical.
 
 The United States, Europe, Asia, South and Central America, Australia, and New Zealand all have divergent laws protecting intellectual property, privacy, the use of encryption, and law enforcement cooperation.
+
+## Ongoing Vendor Assessment Tools
+### Vendor Policies
+Establishing the maturity of vendor security operations and defining the minimum set of requirements and expectations in a policy is essential. 
+
+In addition, it is imperative that vendors, at a minimum, adhere to the same policies and procedures in place at the organization, and that they are monitored for compliance.
+
+### Ongoing Assessment and Compliance
+As is done for risk management in general, vendor compliance must be verified on an ongoing basis. 
+
+Some examples include, but are not limited to, evaluating software, validating vendor policy compliance, checking third-party assessment reports, paying attention to social media, website and employer review sites.
