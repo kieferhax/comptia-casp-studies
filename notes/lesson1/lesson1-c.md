@@ -94,3 +94,20 @@ Researching a vendor can include everything from simple checks, such as reviewin
 - Incident Reporting Requirements - Legal contracts should clearly identify the requirement for vendors to provide timely notification regarding any security incidents. As has been seen in recent years, many organizations fall victim to attack through vendor relationships. If a vendor suffers an incident, the client should be made aware in order to take additional steps to protect any potential impacts they may face as a result.
 
 ## Globalization
+Organizations are very likely to use multiple vendors located in many geographically diverse locations across the world. 
+
+Globalization of the economy is a fascinating and dynamic topic, and in terms of cybersecurity presents many unique challenges. 
+
+The most apparent issues when working with a vendor located in a different country include time zone differences, language barriers, social and moral norms, as well as legal jurisdiction. 
+
+It is the latter issue that becomes much more pressing when considering the use of cloud service providers. 
+
+While a more straightforward vendor relationship requires careful management of team interactions and the governance of data access, remote access, contracts and service level agreements, cloud service providers increase the complexities and risk of geographical considerations in a very unique way.
+
+A cloud service provider arrangement requires an organization to relocate its core information technology applications, data, and infrastructure to the CSP. 
+
+Handing over much of the control of these items presents many tactical risks, but from a geographic viewpoint, legal jurisdiction becomes much more complicated as the customer and CSP are most often located in different cities, regions, and/or countries. 
+
+Determining which laws are applicable in various scenarios, defining boundaries around how and where cloud services can be provisioned, and training staff on these requirements becomes much more critical.
+
+The United States, Europe, Asia, South and Central America, Australia, and New Zealand all have divergent laws protecting intellectual property, privacy, the use of encryption, and law enforcement cooperation.
