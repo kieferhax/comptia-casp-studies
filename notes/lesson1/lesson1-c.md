@@ -157,3 +157,60 @@ Understanding and documenting these relationships, including an assessment of th
 Some elements specific to securing IT operations include identifying the code, hardware, and modules used within the environment and provided by third-parties. 
 
 These elements can introduce vulnerabilities and should be assessed to determine their security level and capabilities.
+
+## The Role of Third-Party Assessments
+### Third-Party Assessments
+An effective and efficient way to assess a vendor is to identify if they have participated in a third-party assessment. A third-party assessment, when performed by an independent and trusted authority, demonstrates that the vendor has a well-established minimum level of maturity and/or capability in place.
+
+Some examples:
+
+Cloud Security Alliance (CSA) Security Trust and Risk (STAR) program demonstrates a cloud service provider's adherence to key principles of transparency, auditing, and best practice security operations.
+
+System and Organization Controls (SOC) uses standards established by the American Institute of Certified Public Accountants (AICPA) to evaluate the policies, processes, and procedures in place and designed to protect technology and financial operations.
+
+International Organization for Standardization (ISO) audits can be used to evaluate many aspects of an organization, but in terms of cybersecurity, an audit for compliance with the ISO 27k standard is most relevant.
+
+Cybersecurity Maturity Model Certification (CMMC) is a set of cybersecurity standards developed by the United States Department of Defense (DoD) and designed to help fortify the DoD supply chain by requiring suppliers to demonstrate that they have mature cybersecurity capabilities.
+
+## Technical Considerations for Vendors
+### Technical Testing and Evaluation
+The selection and use of a vendor-supplied product or service should include an evaluation of capabilities to ensure that the product or service performs as required and supports the features and functionality expected. 
+
+In addition, security capabilities should be specifically validated to ensure the service or product operates safely and according to pre-established security requirements. 
+
+Documentation of all evaluation work, as well as their findings, is also necessary.
+
+### Network Segmentation
+Vendor products and/or the systems managed by vendors should be sufficiently isolated from the rest of the organization's environment to provide a distinct containment layer for any exploitable vulnerabilities within the vendor product and also to limit the vendor's access to the larger network. 
+
+Segmentation can be performed logically, for example implementing virtual local area networks (VLAN), or physically, for example separating networks and communications at the equipment level. 
+
+Network segmentation designs should be periodically re-evaluated to verify they are still operating as originally designed.
+
+### Transmisstion Control
+Transmission control defines how communication channels are protected from infiltration, exploitation, and interception. 
+
+Accomplished by many mechanisms, transmission control can be realized through the application of access control lists and rules on network equipment, limiting host and protocol access to essential components only, mutual authentication, and encryption.
+
+### Shared Credentials
+In order for vendor software and vendor support staff to work in an organization's environment, credentials will need to be provisioned. 
+
+Some credentials will be associated with software and services and others assigned to individuals. 
+
+It is imperative to maintain a one-to-one relationship between vendor employees and credentials in order to establish clear accountability and an effective means to revoke individual access. 
+
+In addition, credentials associated with software and services should be provisioned in a way that prevents them from being used as a standard account, for example by removing the ability for the account to obtain an "interactive logon" in Microsoft Windows.
+
+An example of shared credentials are those provisioned and provided for any vendor support staff to use. 
+
+While this is convenient, it becomes practically impossible to determine precisely who at the vendor location accessed a system and performed specific actions. 
+
+In addition, creating shared credentials in this way fosters a lax security mindset as there is a lack of enforceable accountability. 
+
+Furthermore, vendor support may create shared credentials within the equipment and/or software they support in order to more easily allow staff to quickly access these items and provide support. 
+
+Frequently, these credentials are used at all vendor customer locations and a breach at any vendor customer site can result in the theft of these credentials, which in-turn provide access to all vendor customer locations.
+
+Use of vendor credentials must be well-governed, and carefully monitored. 
+
+Ideally, vendor credentials should require multi-factor authentication, be disabled by default, and only enabled for the duration required to provide support.
