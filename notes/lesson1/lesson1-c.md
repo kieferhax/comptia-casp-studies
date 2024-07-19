@@ -35,4 +35,4 @@ identifies that responsibility for the implementation of security as application
 **Infrastructure as a Service (IaaS)** provides hardware hosted at a provider facility using the provider's physical security controls and utilities, such as power.
 
 ### Share Responsibilities Chart
-![The shared responsibility model describes the relationship between customer and CSP.](comptia-casp-studies/assets/1634-1627653739958-cas_fig01_05.png)
+![The shared responsibility model describes the relationship between customer and CSP.](https://github.com/kieferhax/comptia-casp-studies/blob/main/assets/1634-1627653739958-cas_fig01_05.png?raw=true)
