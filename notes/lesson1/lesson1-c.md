@@ -125,3 +125,35 @@ Some examples include, but are not limited to, evaluating software, validating v
 
 ## Understand Supply Chain Concepts
 ### Supply Chain Diversity
+The supply chain describes all of the suppliers, vendors, and partners needed to deliver a final product. 
+
+The supply chain presents a significant amount of risk, and organizations should consider forming a specialized supply chain risk management program. 
+
+Some of the largest, highest-profile, and impactful breaches in recent years have occurred due to vulnerabilities within the supply chain. 
+
+Software and hardware contain vulnerabilities which can be described as intentional or unintentional flaws introduced into the final product and not easily tracked using traditional supply chain management practices.
+
+The supply chain is far-reaching and diverse. 
+
+For hardware manufacturers, the supply chain includes the providers of storage drives, video adapters, chips, and other components. 
+
+For a software company, the supply chain may include many other software vendors, such as the developers of the development tools themselves, source-code repositories, development language, and third-party libraries. 
+
+For a traditional business, the supply chain includes, but is not limited to, internet service providers, HVAC vendors, safety equipment suppliers, physical security guards, contractors, other service providers, and the supply chain of its hardware and software vendors! 
+
+Any weakness in the cybersecurity operations of a vendor is a potential avenue of attack and source of unauthorized access.
+
+Supply Chain Visibility (SCV) - Describes the capacity to understand how all vendor hardware, software, and services are produced and delivered as well as how they impact an organization's operations or finished products. 
+
+This is a daunting task, as full visibility requires a comprehensive understanding of all levels of the supply chain, to include the vendors and suppliers of an organization's vendors and suppliers - or put another way, the 1st , 2nd , 3rd ,... n th level suppliers in the supply chain.
+
+### Third-Party Dependencies
+Supply chain generally refers to the use and distribution of materials comprising a finished product. 
+
+Third-parties form part of the supply chain but describe a far broader set of relationships such as vendors, suppliers, service providers, credit card processors, utilities, contractors, affiliates, trade associations, government agencies, and many others. 
+
+Understanding and documenting these relationships, including an assessment of the level of risk the third-party poses to the organization can help identify sources of trouble. 
+
+Some elements specific to securing IT operations include identifying the code, hardware, and modules used within the environment and provided by third-parties. 
+
+These elements can introduce vulnerabilities and should be assessed to determine their security level and capabilities.
