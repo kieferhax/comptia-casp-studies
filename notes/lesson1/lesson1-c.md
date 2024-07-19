@@ -71,3 +71,26 @@ An important core concept when using cloud resources is that the implementation 
 [**Microsoft Share Responsibility Model**](https://azure.microsoft.com/en-us/resources/shared-responsibility-for-cloud-computing/)
 
 [**Cloud Security Alliance Responsibility Model Explained**](https://cloudsecurityalliance.org/blog/2020/08/26/shared-responsibility-model-explained/)
+
+## Performing Vendor Assessment
+It is essential to take the time to research vendors prior to entering into any sort of agreement. 
+
+Researching a vendor can include everything from simple checks, such as reviewing the vendor's website, social media pages, and employer review sites, to more formal requirements such as requesting evidence of independent third-party audits of the vendor's operations, finances, and cybersecurity capabilities.
+
+*Ultimately, it is important to select a vendor service or product based on an evaluation of the vendor's integrity and the presence of well-matched product or service features and functionality and not to select vendor products and services based solely on cost.*
+
+- Vendor Lock-in -Describes when a customer is completely dependent on a vendor for products or services because switching is either impossible or would result in substantial complexity and costs. Vendor lock-in is sometimes referred to as proprietary lock-in.
+
+- Vendor Lockout - Describes when a vendor's product is developed in a way that makes it inoperable with other products, the ability to integrate it with other vendor products is not a feasible option, or does not exis
+
+- Vendor Viability - Is an important measurement used to determine if a vendor will be in-business on an on-going basis. This can be accomplished by establishing that the vendor provides a viable and in-demand product and the financial means to stay afloat. Additionally, legal contracts should include language identifying notification requirements in regard to merger and acquisition activity. If a vendor is on either side of acquisition activity (meaning that they are either acquiring or being acquired), vendor viability assessment processes will need to be re-administered to accommodate these changes. The security of an integrated IT between two organizations will amount to the least secure between the two!
+
+- Source Code Escrow - Identifies that a copy of vendor-developed source code is provided to a trusted third party in case the vendor ceases to be in business. The requirement for source code escrow needs to be formally defined within a contract, and the presence of up-to date source code at the escrow location is periodically verified.
+
+- Support Availability - Defines the steps taken to verify the type and level of support to be provided by the vendor in support of their product or service. It is common for support performance and maintenance fees to be defined via a service level agreement (SLA.) Definitions contained within the description of support services should include details regarding how to obtain support, response times, level of support (for example the boundary between product support and professional services engagements), from what location support services will be provided, descriptions regarding escalation, the use of account managers, and other related items.
+
+- Meeting Client Requirements - Describes the formal measures taken to validate that the vendor's delivered service or product offering aligns to established requirements. Vendors should operate in accordance to the client's legal and regulatory mandates as well as to internal policy requirements. Some examples include performing work in accordance to the client's established change management policy, deploying and configuring services in accordance to baseline security requirements, and complying to at least the same level of expectations described in the client's acceptable use policy. Additionally, the vendor contract should include language requiring notice for any staff turnover that impacts the delivery of their service or product. Timely removal of user access is dependent on early notification of termination - which can only occur with knowledge of the change.
+
+- Incident Reporting Requirements - Legal contracts should clearly identify the requirement for vendors to provide timely notification regarding any security incidents. As has been seen in recent years, many organizations fall victim to attack through vendor relationships. If a vendor suffers an incident, the client should be made aware in order to take additional steps to protect any potential impacts they may face as a result.
+
+## Globalization
