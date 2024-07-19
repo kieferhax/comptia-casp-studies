@@ -65,6 +65,7 @@ For example, in a SaaS model the configuration and control of networking is perf
 An important core concept when using cloud resources is that the implementation and management of security controls is not a "hands-off" endeavor, that identifying the boundary between customer and CSP responsibilities requires a conscious effort.
 
 **Additional Resources**
+
 [**NIST Cloud Computing Reference Architecture SP 500-212**](https://www.nist.gov/publications/nist-cloud-computing-reference-architecture)
 
 [**Microsoft Share Responsibility Model**](https://azure.microsoft.com/en-us/resources/shared-responsibility-for-cloud-computing/)
