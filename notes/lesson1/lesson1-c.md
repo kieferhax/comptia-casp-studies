@@ -122,3 +122,6 @@ In addition, it is imperative that vendors, at a minimum, adhere to the same pol
 As is done for risk management in general, vendor compliance must be verified on an ongoing basis. 
 
 Some examples include, but are not limited to, evaluating software, validating vendor policy compliance, checking third-party assessment reports, paying attention to social media, website and employer review sites.
+
+## Understand Supply Chain Concepts
+### Supply Chain Diversity
