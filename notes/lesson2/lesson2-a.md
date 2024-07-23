@@ -166,3 +166,10 @@ The facts are oftentimes quite the opposite.
 When selecting a third party it is essential to carefully analyze their information technology, systems, policies, procedures, and cybersecurity program to ensure it meets the requirements of the hiring organization. 
 
 Neglecting to do so can have severe financial, regulatory, and reputational impacts.
+
+**Attestation of Compliance**
+An *attestation of compliance (AOC)* describes the set of policies, contracts, and standards identified as essential in the agreement between two parties. 
+
+The attestation of compliance essentially defines how the relationship will be governed. 
+
+For example, the procurement of services, data protection requirements, privacy protection requirements, use of independent auditors and assessors, incident reporting, and definitions of what constitutes a violation must all be documented and agreed upon.
