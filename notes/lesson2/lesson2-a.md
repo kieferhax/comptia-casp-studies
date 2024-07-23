@@ -104,4 +104,65 @@ Effective data retention mitigates the potential issues surrounding data loss bu
 
 The impacts of inadequate data retention practices are often devastating. 
 
-In light of this, it is essential to frequently evaluate compliance with data retention policies and perform validation exercises to test their effectiveness and the capabilities of those responsible for maintaining the data
+In light of this, it is essential to frequently evaluate compliance with data retention policies and perform validation exercises to test their effectiveness and the capabilities of those responsible for maintaining the data.
+
+## Explain Data Destruction Concepts
+**Data Destruction**
+Data destruction describes the legally compliant means by which data is removed and made inaccessible. 
+
+Adequate levels of destruction vary but are closely linked to the data's classification. 
+
+In addition, the methods used to destroy data require careful consideration as the widespread adoption of solid state disk and cloud storage complicates the task of confidently destroying data.
+
+**Sanitization**
+A general term describing the means by which information is removed from media and includes methods such as clear, purge, and damage. 
+
+Additionally, sanitization requires the removal of all labels, markings, and activity logs.
+
+**Crypto Erase**
+Refers to the sanitization of the key used to perform decryption of data, making recovery of the data effectively impossible. 
+
+***NOTE*** *Crypto erase is particularly important when considering cloud platforms where the data is stored on a device and in a location inaccessible to the owner.*
+
+**Clear**
+A type of sanitization that involves multiple block-level overwrite cycles. 
+
+This approach protects the data from being recovered from all recovery methods except those that include clean-room type procedures performed at the materials level.
+
+**Purge**
+A type of sanitization that provides effective protection from all recovery techniques, including clean-room methods.
+
+**Damage**
+Physically breaking a storage device to render it useless or inoperable.
+
+## Understand Geographic Considerations
+**Data Sovereignty**
+*Data sovereignty* identifies that the laws governing the country in which data is stored have control over the data and describes the legal dynamics of data collection and use in a global economy. 
+
+Laws vary widely from country to country and can impose restrictions on how data is used, how it can be moved from one country to another, as well as limitations on the type of encryption used to protect it.
+
+Cloud computing highlights the complexities of data sovereignty. 
+
+A key attribute of cloud computing is the ease at which services can be established around the globe to fortify performance and availability. 
+
+These capabilities conflict with the legal risks of performing these same tasks.
+
+***NOTE*** *Some organizations establish operations in countries that have a supporting legal framework. For example, organizations focused on privacy and anonymity operate out of Switzerland because of the country's uniquely protective privacy laws.*
+
+When constructing technology solutions to support the organization, it is important to consider the location of the data, the location of the data subject, and the location of the cloud provider. 
+
+With the widespread adoption of public cloud infrastructures, it becomes likely that an organization incorporated in the United States can collect data on an individual living in India and store the data at a cloud provider located within the EU. 
+
+The legal ramifications of this arrangement are complicated by the diverse separation of these important elements and the multitude of laws in place within each country designed to protect security, privacy, and national interests.
+
+## Explain Third-Party Compliance
+**Contrasting Risk Perspectives**
+In light of the fact that few, if any, organizations run without considerable dependence on third parties, it becomes apparent that considerable risk to operations and data protection requirements exists within these third-party arrangements. 
+
+By leveraging the workforce and expertise of an external enterprise, most third-party arrangements are viewed as a mechanism by which costs and risks can be reduced. 
+
+The facts are oftentimes quite the opposite. 
+
+When selecting a third party it is essential to carefully analyze their information technology, systems, policies, procedures, and cybersecurity program to ensure it meets the requirements of the hiring organization. 
+
+Neglecting to do so can have severe financial, regulatory, and reputational impacts.
