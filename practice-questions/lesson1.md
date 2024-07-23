@@ -1,6 +1,6 @@
 # Lesson 1 Practice Questions
 
-## What are the two major components of risk? (Select all that apply.)
+1. What are the two major components of risk? (Select all that apply.)
 - Impact
 - Exploitability
 - Integrity
