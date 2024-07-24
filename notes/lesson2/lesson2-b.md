@@ -136,3 +136,61 @@ Many existing, new, and emerging laws are designed to define and protect privacy
 In the United States, the Health Insurance Portability and Accountability Act (HIPAA), Gramm-Leach Bliley Act (GLBA), Children's Online Privacy Protection Act (COPPA), and California Consumer Protection Act (CCPA) include specific provisions around the collection, use, and dissemination of privacy data. 
 
 Outside of the United States, the European Union's General Data Protection Regulation (GDPR), Canada's Personal Information Protection and Electronic Documents Act (PIPEDA), Japan's Act on the Protection of Personal Information (APPI), and the Personal Data Protection Act (PDPA) of Singapore are just a few examples.
+
+***NOTE*** *The United States does not have a federal data privacy law but individual states are beginning to establish their own laws, such as the California Consumer Protection Act (CCPA).*
+
+## Understand Certification and Accreditation
+Understand Certification and Accreditation
+
+When considering assessment and authorization in a general sense, it represents a formal way for a system owner to gain assurance that a complicated technology solution (for which they are accountable) is configured appropriately and includes all of the required security features for it to operate reliably and safely. 
+
+Assessment can be associated with the system builders. 
+
+It documents their claim that a system has been successfully built according to its requirement and that it is ready to be used in a live production setting. 
+
+Authorization describes the system owner's agreement and acceptance of this claim after which the system in question can "go live." 
+
+Assessment and authorization can be used very effectively in any information technology program to formalize a readiness assessment of a mission-critical system, major upgrade, or change to a mission-critical system.
+ 
+Assessment and Authorization (A&A) take on a new meaning within the U.S. federal government. 
+
+The U.S. federal government uses a very stringent process in order to provide assurance that all agency information systems are compliant with federal standards. 
+
+U.S. federal assessment and authorization is a massive undertaking and, as a result, requires extensive skills and experience to successfully complete.
+ 
+The Assessment and Authorization (A&A) process includes six distinct phases:
+
+- Categorization
+- Selection
+- Implementation
+- Assessment
+- Authorization
+- Continuous Monitoring
+
+**Categorization**
+This phase begins when the system owner and the designated Information System Security Officer (ISSO) identify and formally acknowledge that assessment and authorization is needed for a particular system. 
+
+The categorization phase involves defining the system and categorizing the information processed based on impact levels.
+
+**Selection**
+To ensure appropriate security measures, security controls are selected based on the categorization. 
+
+This selection adheres to guidelines outlined in NIST special publication (SP) 800-53, ensuring the system is equipped with necessary protections.
+
+**Implementation**
+Following selection, the implementation phase involves deploying the selected controls within the system and documenting the deployment details.
+
+**Assessment**
+An independent audit reviews the information system and associated documentation to verify if the necessary controls, as outlined in NIST SP 800-53, have been implemented correctly and are effective.
+
+**Authorization**
+To obtain authorization, a special entity called the Authorizing Official (AO) will also review the information system and the results of the independent audit. 
+
+After the AO reviews all necessary elements of the system and determines that the system is compliant with all requirements, a formal letter of authorization will be provided to the system owner that grants the Authority to Operate (ATO) the system for a period of three years.
+
+**Continuous Monitoring**
+Continuous monitoring describes the actions taken to ensure that a system continues to operate in a compliant manner. 
+
+The Information System Security Officer (ISSO) has primary responsibility for this important phase and utilizes many administrative, technical, and physical controls to maintain assurances.
+
+It is common for the assessment and authorization process to include measurements and metrics detailed in the ISO standard 15408 - Common Criteria (CC) for Information Technology Security Evaluation, which allows the security attributes of a system to be specifically detailed using a common vernacular.
