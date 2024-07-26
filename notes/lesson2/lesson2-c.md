@@ -126,3 +126,14 @@ As is common, software and services can be connected via data interfaces for the
 Such interfaces can form the basis of critical operational functions, and using a data interface can also provide access to sensitive or otherwise protected information. 
 
 Describing and defining the operating parameters, roles, requirements, and expectations of such use is the purpose of the ISA.
+
+**Service Level Agreement (SLA)**
+A contractual agreement setting out the detailed terms under which a service is provided. 
+
+SLAs typically govern services that are both measurable and repeatable and include an enforcement mechanism that typically includes financial penalties for non-compliance.
+
+**Operational-Level Agreement (OLA)**
+Operational-level agreements are typically internal documents established by an organization to define the essential operational needs of an organization in order for it to meet the performance metrics defined in a Service Level Agreement
+
+**Privacy Level Agreement (PLA)**
+A Privacy Level Agreement is commonly used when establishing a relationship with a cloud service provider (CSP) and goes beyond the provisions detailed in an SLA to include metrics and measures related to conforming with specific information privacy and data protection requirements.
